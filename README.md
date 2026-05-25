@@ -1,13 +1,11 @@
-# Developer-Survey-Dashboard-Project
-Technology Trends Analysis 
+Developer Survey Dashboard Project
+Technology Trends Analysis
 
 This project analyzes global developer survey data to identify current and future trends in programming languages, databases, cloud platforms, and web frameworks. The analysis includes data cleaning, visualization, dashboard creation, and interpretation of insights. The goal is to understand how the technology landscape evolves and which tools developers prefer today and expect to use in the future.
 
 Project Structure
-/data               → raw and cleaned datasets  
-/notebooks          → Jupyter notebooks with analysis and visualizations  
-/images             → exported charts and dashboard screenshots  
-/presentation       → final presentation (PDF or PPTX)  
+/data               → raw and cleaned datasets   
+/images             → exported charts and dashboard screenshots    
 README.md           → project documentation  
 
 
@@ -20,8 +18,9 @@ Present results in a structured, professional format
 
 Tools and Technologies
 Python (Pandas, NumPy, Matplotlib, Seaborn)
+Some data cleaning and visualizations were completed inside Coursera Labs
 Jupyter Notebook
-Cognos analytics
+Cognos Analytics
 GitHub for version control and documentation
 
 Key Insights
